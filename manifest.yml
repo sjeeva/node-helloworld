@@ -1,5 +1,5 @@
 ---
 applications:
-- name:    hello-node
+- name:    jc-bm-hello-node
   random-route: true
   memory:  128M
